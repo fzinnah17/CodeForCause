@@ -1,21 +1,18 @@
 ### User Stories
 
 
-## Outline User Roles
+## User Roles:
+**Student**: A college computer science freshman or sophomore student using the platform to learn, share, and connect.
 
-- Students (CS & Non CS)
-- Professionals
+### User Stories:
 
-## User Stories
-
-1. As a new user, I want to be able to sign up for an account so that I can access the community and resources.
-2. As a user, I want to log in to my account to access my personalized learning environment and connect with the community.
-3. As a user, I want to create, read, update, and delete my own posts so that I can share my thoughts, findings, and progress with others.
-4. As a user, I want to comment on and react to posts made by others to engage with the community.
-5. As a user seeking knowledge, I want to access learning resources posted by others to enhance my understanding of computer science topics.
-6. As a user, I want to post and share resources I find valuable so that others in the community can learn from them.
-7. As a beginner, I want guidance on where to start with coding so that I can make effective progress in my learning journey.
-8. As a user, I want to find information about upcoming tech events or career fairs so I can network and advance my career.
-9. As a user, I want to track my learning progress over time to stay motivated and see how much I’ve grown.
-10. As a user, I want the option to filter or sort posts and resources based on my preferences so I can more easily find content that suits my needs.
-11. As a user, I want my data to be validated when I submit forms so that I can avoid mistakes and ensure my information is accurate.
+1. **As a Student**, I want to **register** for an account, so that I can access the platform's features.
+2. **As a Student**, I want to **log in** to my account, so that I can engage with the community.
+3. **As a Student**, I want to **browse available resources** (like YouTube videos, Leetcode problems, etc.), so that I can find learning materials that match my interests.
+4. **As a Student**, I want to **filter resources by type** (e.g., "Videos" or "Articles"), so that I can quickly find specific types of learning materials.
+5. **As a Student**, I want to **create a post** on the discussion board, so that I can share my thoughts, questions, or experiences with the community.
+6. **As a Student**, I want to **read posts** made by other students, so that I can learn from their insights and experiences.
+7. **As a Student**, I want to **update or delete my posts**, so that I can correct mistakes or remove outdated information.
+8. **As a Student**, I want to **comment on posts**, so that I can engage in discussions and provide feedback to peers.
+9. **As a Student**, I want to **navigate the platform easily** using dynamic routes, so that I can have a seamless user experience.
+10. **As a Student**, I want to **receive validation feedback** when submitting data, so that I can ensure my submissions are appropriate and complete.
